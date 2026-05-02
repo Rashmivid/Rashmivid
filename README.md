@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rashmijha483@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode_500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=45&lines=ML+Engineer+%2B+Backend+Developer;4+patches+MERGED+into+LibreOffice+core;GSoC+2026+Applicant+%40+LibreOffice;GATE+CS+Qualified+%F0%9F%8F%85;500%2B+LeetCode+Problems+Solved;Hacksagon+Finalist+%40+IIITM+Gwalior+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=45&lines=ML+Engineer+%2B+Backend+Developer;4+patches+MERGED+into+LibreOffice+core;GSoC+2026+Applicant+%40+LibreOffice;GATE+CS+Qualified+%F0%9F%8F%85;500%2B+LeetCode+Problems+Solved;Hacksagon+Finalist+%40+IIITM+Gwalior" alt="Typing SVG" />
 
 </div>
 
@@ -79,6 +79,7 @@ rashmi = {
 | [tdf#145538](https://gerrit.libreoffice.org/c/core/+/202787) | Range-based for loops in `tblafmt.cxx` & `ndtbl1.cxx` | ✅ Merged |
 | [tdf#158237](https://gerrit.libreoffice.org/c/core/+/202908) | `contains()` instead of `find()!=end()` for maps/sets | ✅ Merged |
 | [tdf#75280 svx](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with correct integer type (svx) | ✅ Merged |
+| [tdf#75280 ucb](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with correct integer type (ucb) | 🔧 In review |
 
 ---
 
@@ -118,12 +119,17 @@ rashmi = {
 ## GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rashmivid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmivid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rashmivid&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Rashmivid)
+
 </div>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmivid&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" />
+
+![](https://komarev.com/ghpvc/?username=Rashmivid&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Rashmivid?style=for-the-badge&color=0A66C2&logo=github)](https://github.com/Rashmivid)
+
 </div>
 
 ---
