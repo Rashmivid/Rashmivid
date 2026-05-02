@@ -13,6 +13,8 @@
 
 ## `$ whoami`
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9A7&width=600&lines=B.Tech+CSE+%40+PSIT+Kanpur+%7C+CGPA%3A+8.04;ML+Engineer+%2B+Backend+Developer;4+patches+MERGED+into+LibreOffice+core;GSoC+2026+Applicant+%40+LibreOffice;GATE+CS+Qualified+%F0%9F%8F%85;Open+Source+Contributor+%7C+Lucknow%2C+India" alt="Typing SVG" />
+
 ```python
 rashmi = {
     "name"       : "Rashmi Jha",
@@ -50,36 +52,28 @@ rashmi = {
 | [tdf#145538](https://gerrit.libreoffice.org/c/core/+/202787) | Range-based for loops in `tblafmt.cxx` and `ndtbl1.cxx` | ✅ Merged |
 | [tdf#158237](https://gerrit.libreoffice.org/c/core/+/202908) | Use `contains()` instead of `find()!=end()` for maps/sets | ✅ Merged |
 | [tdf#75280 svx](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with appropriate integer type (svx) | ✅ Merged |
+| [tdf#75280 ucb](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with appropriate integer type (ucb) | 🔧 In review |
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**ML / Backend / Frontend**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+</div>
 
 ---
 
@@ -90,30 +84,27 @@ rashmi = {
 🔧 **4 patches merged** into LibreOffice core (open source, Gerrit)  
 🟡 **Two Gold Badges** — HackerRank (Problem Solving & C++)  
 💻 **500+ DSA problems** solved on LeetCode  
-🛒 **Certificate of Participation** — Flipkart Runway Season 5 (2025)  
+🛒 **Certificate of Participation** — Flipkart Runway Season 5 (2025)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Rashmivid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rashmivid&theme=tokyonight&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmivid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmivid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmivid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmivid&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
 
-*Open to internships, collaborations, and open source contributions*  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&width=500&lines=Open+to+internships+%7C+Collaborations+%7C+Open+Source" alt="footer typing" />
+
 📬 Rashmijha483@gmail.com
 
 </div>
