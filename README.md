@@ -7,54 +7,20 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rashmijha483@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode_500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=45&lines=ML+Engineer+%2B+Backend+Developer;4+patches+MERGED+into+LibreOffice+core;GSoC+2026+Applicant+%40+LibreOffice;GATE+CS+Qualified+%F0%9F%8F%85;500%2B+LeetCode+Problems+Solved;Hacksagon+Finalist+%40+IIITM+Gwalior" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=45&lines=ML+Engineer+%2B+Backend+Developer;4+patches+MERGED+into+LibreOffice+core;GSoC+2026+Applicant+%40+LibreOffice;GATE+CS+Qualified;500%2B+LeetCode+Problems+Solved;Hacksagon+Finalist+%40+IIITM+Gwalior" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `$ whoami`
+### 👩‍💻 About Me
 
-<table>
-<tr>
-<td>
-
-```python
-rashmi = {
-  "name"     : "Rashmi Jha",
-  "alias"    : "Rashmivid",
-  "degree"   : "B.Tech CSE @ PSIT Kanpur",
-  "cgpa"     : 8.04,
-  "gsoc"     : "LibreOffice 2026",
-  "merged"   : 4,  # patches in LibreOffice core
-  "gate"     : "CS Qualified ✅",
-  "stack"    : ["Python","C++","FastAPI",
-               "PyTorch","React","Docker"],
-  "location" : "Kanpur, India 📍",
-}
-```
-
-</td>
-<td>
-
-🎯 **Currently**
-- GSoC 2026 applicant @ LibreOffice
-- Improving `sw/` test coverage via lcov/gcov
-
-🔥 **Highlights**
-- GATE CS Qualified
-- 4 patches merged into LibreOffice
-- Hacksagon Finalist @ IIITM Gwalior
-- 500+ LeetCode problems
-
-🌱 **Learning**
-- Graph Neural Networks
-- Distributed Systems
-- Advanced C++ internals
-
-</td>
-</tr>
-</table>
+- 🎓 B.Tech CSE @ PSIT Kanpur — **CGPA: 8.04**
+- 🔭 GSoC 2026 applicant @ **LibreOffice** — improving `sw/` test coverage using lcov/gcov
+- 🔧 **4 patches merged** into LibreOffice core via Gerrit (`RashmiVid`)
+- 🏅 **GATE CS Qualified** · 🏆 **Hacksagon Finalist** @ IIITM Gwalior 2026
+- 💻 **500+ DSA problems** on LeetCode · 🟡 Two Gold Badges on HackerRank
+- 📍 Kanpur, Uttar Pradesh, India
 
 ---
 
@@ -71,7 +37,7 @@ rashmi = {
 
 ## LibreOffice — Merged Patches
 
-> **4 patches merged into LibreOffice core** · Gerrit username: `RashmiVid`
+> **4 patches merged into LibreOffice core** · Gerrit: `RashmiVid`
 
 | Patch | Description | Status |
 |-------|-------------|--------|
@@ -120,11 +86,7 @@ rashmi = {
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rashmivid&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Rashmivid)
-
-</div>
-
-<div align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rashmivid&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Rashmivid)
 
 ![](https://komarev.com/ghpvc/?username=Rashmivid&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
@@ -137,7 +99,7 @@ rashmi = {
 <div align="center">
 
 *Open to internships · collaborations · open source*
-
+<br>
 📬 **Rashmijha483@gmail.com**
 
 </div>
