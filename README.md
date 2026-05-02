@@ -20,7 +20,7 @@ rashmi = {
     "degree"     : "B.Tech CSE @ PSIT Kanpur  (CGPA: 8.04)",
     "focus"      : ["ML Engineering", "Backend Systems", "Open Source"],
     "gsoc"       : "LibreOffice 2026 — improving sw/ test coverage (lcov/gcov)",
-    "gerrit"     : "RashmiVid  |  4–5 bugs fixed in LibreOffice core",
+    "gerrit"     : "RashmiVid  |  4 patches MERGED into LibreOffice core",
     "stack"      : ["Python", "C++", "FastAPI", "PyTorch", "React", "Docker"],
     "location"   : "Kanpur, Uttar Pradesh, India",
     "fun_fact"   : "GATE CS qualified + Hacksagon finalist @ IIITM Gwalior 🏆",
@@ -31,16 +31,25 @@ rashmi = {
 
 ## Projects
 
-| # | Project | What it does | Tech | Status |
-|---|---------|-------------|------|--------|
-| 🚗 | [**AutoNexus**](https://github.com/Rashmivid/Autonexus-backend) | AI predictive vehicle maintenance — 81+ vehicles, 94% failure prediction accuracy | `Python` `FastAPI` `XGBoost` `Twilio` `Docker` | ✅ Live |
-| 🛰️ | [**Satellite Collision Detection**](https://github.com/Rashmivid/Satellite-Collision-Detection-System) | 4-layer STGNN on 4,183 nodes & 12,207 edges — 95–98% accuracy | `PyTorch` `Scikit-learn` `Pandas` `Plotly` | 🔧 Active |
-| 🏟️ | [**Sports Highlight Generator**](https://github.com/Rashmivid/sports-highlight-generator) | AI auto-generates match highlight reels — 88% accuracy | `PyTorch` `OpenCV` `FFMPEG` `React` `Flask` | ✅ Done |
-| 🚉 | [**Smart Station Navigator**](https://github.com/Rashmivid/smart-station-navigator) | Indoor navigation system for railway stations | `JavaScript` | 🔧 Active |
-| 📦 | [**tdf#145538**](https://gerrit.libreoffice.org/c/core/+/202787) | Range-based for loops modernisation — LibreOffice Writer core | `C++17` `Gerrit` | 🔧 In review |
-| 📦 | [**tdf#158237**](https://gerrit.libreoffice.org/c/core/+/202908) | C++20 `contains()` adoption across sw/ module | `C++20` `Jenkins` | 🔧 In review |
-| 📦 | [**tdf#75280**](#) | `sal_IntPtr` replacement & SortedResultSet::Compare refactor | `C++` | 🔧 In progress |
-| 🧮 | [**SortInCPPBy**](https://github.com/Rashmivid/SortInCPPBy-) | C++ sorting algorithms & DSA practice | `C++` | ✅ Done |
+| Project | What it does | Tech | Status |
+|---------|-------------|------|--------|
+| 🚗 [**AutoNexus**](https://github.com/Rashmivid/Autonexus-backend) | AI predictive vehicle maintenance — 81+ vehicles, **94% failure prediction accuracy** | `Python` `FastAPI` `XGBoost` `Twilio` `Docker` | ✅ Live |
+| 🛰️ [**Satellite Collision Detection**](https://github.com/Rashmivid/Satellite-Collision-Detection-System) | 4-layer STGNN on 4,183 nodes & 12,207 edges — **95–98% accuracy** | `PyTorch` `Scikit-learn` `Pandas` `Plotly` | 🔧 Active |
+| 🏟️ [**Sports Highlight Generator**](https://github.com/Rashmivid/sports-highlight-generator) | AI auto-generates match highlight reels from raw footage — **88% accuracy** | `PyTorch` `OpenCV` `FFMPEG` `React` `Flask` | ✅ Done |
+| 🚉 [**Smart Station Navigator**](https://github.com/Rashmivid/smart-station-navigator) | Indoor navigation system for railway stations | `JavaScript` | 🔧 Active |
+
+---
+
+## LibreOffice — Merged Patches
+
+> **4 patches merged into LibreOffice core** via Gerrit · GSoC 2026 applicant
+
+| Patch | Description | Status |
+|-------|-------------|--------|
+| [tdf#143148](https://gerrit.libreoffice.org/c/core/+/202787) | Use `#pragma once` in comphelper headers | ✅ Merged |
+| [tdf#145538](https://gerrit.libreoffice.org/c/core/+/202787) | Range-based for loops in `tblafmt.cxx` and `ndtbl1.cxx` | ✅ Merged |
+| [tdf#158237](https://gerrit.libreoffice.org/c/core/+/202908) | Use `contains()` instead of `find()!=end()` for maps/sets | ✅ Merged |
+| [tdf#75280 svx](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with appropriate integer type (svx) | ✅ Merged |
 
 ---
 
@@ -76,11 +85,11 @@ rashmi = {
 
 ## Achievements
 
-🏅 **GATE CS Qualified** — one of India's toughest engineering exams  
+🏅 **GATE CS Qualified** — one of India's most competitive engineering exams  
 🏆 **Team Leader & Finalist** — Hacksagon Hackathon, IIITM Gwalior 2026  
+🔧 **4 patches merged** into LibreOffice core (open source, Gerrit)  
 🟡 **Two Gold Badges** — HackerRank (Problem Solving & C++)  
 💻 **500+ DSA problems** solved on LeetCode  
-🔧 **LibreOffice contributor** — 4–5 bugs fixed via Gerrit  
 🛒 **Certificate of Participation** — Flipkart Runway Season 5 (2025)  
 
 ---
