@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmi-jha-a122ab2a0)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rashmivid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rashmijha483@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode_500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode_550%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=45&lines=ML+Engineer+%2B+Backend+Developer;4+patches+MERGED+into+LibreOffice+core;GSoC+2026+Applicant+%40+LibreOffice;GATE+CS+Qualified;500%2B+LeetCode+Problems+Solved;Hacksagon+Finalist+%40+IIITM+Gwalior" alt="Typing SVG" />
 
@@ -45,7 +45,7 @@
 | [tdf#145538](https://gerrit.libreoffice.org/c/core/+/202787) | Range-based for loops in `tblafmt.cxx` & `ndtbl1.cxx` | ✅ Merged |
 | [tdf#158237](https://gerrit.libreoffice.org/c/core/+/202908) | `contains()` instead of `find()!=end()` for maps/sets | ✅ Merged |
 | [tdf#75280 svx](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with correct integer type (svx) | ✅ Merged |
-| [tdf#75280 ucb](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with correct integer type (ucb) | 🔧 In review |
+| [tdf#75280 ucb](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with correct integer type (ucb) | ✅ Merged |
 
 ---
 
