@@ -46,7 +46,7 @@
 | [tdf#158237](https://gerrit.libreoffice.org/c/core/+/202908) | `contains()` instead of `find()!=end()` for maps/sets | ✅ Merged |
 | [tdf#75280 svx](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with correct integer type (svx) | ✅ Merged |
 | [tdf#75280 ucb](https://gerrit.libreoffice.org/c/core/+/202908) | Replace `sal_IntPtr` with correct integer type (ucb) | ✅ Merged |
-| [tdf#75280 ucb](https://gerrit.libreoffice.org/c/core/+/202908) | Enable runtime usage of `Zstandard (zstd)` for ZIP package streams| 🔧 Active |
+| [tdf#137308 ucb](https://gerrit.libreoffice.org/c/core/+/207541) | Enable runtime usage of `Zstandard (zstd)` for ZIP package streams| 🔧 Active |
 
 ---
 
